@@ -9,7 +9,7 @@
     horizontal_padding = 10
     frame_width = 1
     gap_size = 3
-    font = IBM Plex Mono 11
+    font = Monocraft 11
     icon_theme = "Colloid-Catppuccin-Dark"
     enable_recursive_icon_lookup = true
     corner_radius = 3
