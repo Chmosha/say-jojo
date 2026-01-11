@@ -1,0 +1,10 @@
+
+* {
+    font:                        "Monocraft 12";
+    background:                  #1a1123;
+    background-alt:              #1a1123;
+    foreground:                  #f4215c;
+    selected:                    #f4215c;
+    active:                      #eb6f92;
+    urgent:                      #f4215c;
+}
